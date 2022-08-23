@@ -1,1 +1,0 @@
-# Generate-maze-using-Prim-s-algorithm
